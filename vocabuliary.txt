@@ -581,4 +581,35 @@ allowance  //零花钱,补助,津贴;
 from a practical viewpoint //从实际角度来看.
 you should keep in mind that ... //你应该记住这一点...
 either...or...  //要么...要么...; 或者...或者...;  Either he or you are right.    Either you must improve your work or I shall dismiss you. 要么你改进你的工作,要么我辞退你.
-
+argue //v.争论; While discussing the matter, they started to argue in a very loud voice
+    argue about //通常接辩论内容; they were arguing about which film to go and see.
+    argue against //有明显的'不同意,不服从,反对'的意味; they strongly argued against going there next Sunday
+    argue for //表示'力主...' 维护的意思; this lawyer is arguing for the implementation of the new policy.
+success story //成就,成功的故事; Electronic books have been a huge success story for the pulishing industry.
+the key to success //成功的关键; Responsibility is the source of the strength, innovation is the road to development, detail is the key to success.
+approve of //赞同; I approve of the opinion that ... 
+get to realize //意识到...;  the readers get to realize that ... 读者们意识到...
+hearsay //n.道听途说,谣言; That she is getting married is only hearsay
+due to //由于... Due to the use fo state-of-the-art production lines, we are able to provide a large amount of product in a short time.
+in print  //adj. 己出版,在印刷; you can find these books in print at the public library.
+academic //adj. 学院的,学术的,理论的; academic website
+devastating //adj. 可怕的,令人震惊的; Long-term unemployment can be devastating.  we were all shocked by the devastating news.
+preparedness  //n.准备; A lot of damage was done due to the lack of preparedness.
+by this time  //到现在; you should have finished your homework by this time.
+well-informed //adj.消息灵通的,见多识广的; I am not very well-informed when it comes to history and economics.  (when it comes to ...  当谈到...时)
+search and rescue operations  //救援行动;
+thanks to //由于...; 归功于...;  Many people were saved thanks to the search and rescue operations.
+cutting-edge  //adj.最前沿的.  cutting-edge technology
+unmanned //adj.无人操纵的,无人驾驶的;无人值守的;  unmanned supermarket
+deadly //adj. 致命的;
+topical  //adj.时下热门的,时下关注的;
+submerge //v.湮没; 
+dissatisfaction  //n.不满意,不快; Andy is feeling a lot of dissatisfaction in his job as an engineer.
+meet someone's standards //达到某人的要求; I want to buy a new phone because the one I have now doesn't meet my standards.
+make excuses //找借口,找理由; People like to make excuses when they think that something isn't their fault.
+    stop making any more excuses  //别找借口了
+reliable //adj. 可靠的,可信的;
+refund //n.退款;  you can only get a refund if you have the receipt.
+be unsure about sth. //对某事不确定; if you are unsure about anything just ask Bob - he knows everything.
+shopping spree  //n.大采购,疯狂购物; Shopping spree are okey to have once in a while.
+what if ... ?  //"要是...怎么办",表示提出假设;  what if we get lost in a strange city? what if what he said is true.
