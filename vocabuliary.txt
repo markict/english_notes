@@ -17,7 +17,8 @@ sequential  连续的
 coherent  连贯的    my sentence is not very coherent
 
 clear vision //好视力   
-satisfied['sætɪsfaɪd]  满足,满意
+satisfied['sætɪsfaɪd]  //adj.满足的,满意的
+satisfy //v. 满足;  this program must satisfy your requirements
 necessary    essential
 tough   difficult
 today’s era
@@ -613,3 +614,11 @@ refund //n.退款;  you can only get a refund if you have the receipt.
 be unsure about sth. //对某事不确定; if you are unsure about anything just ask Bob - he knows everything.
 shopping spree  //n.大采购,疯狂购物; Shopping spree are okey to have once in a while.
 what if ... ?  //"要是...怎么办",表示提出假设;  what if we get lost in a strange city? what if what he said is true.
+wanderlust  //旅行癖. I always feel a sense of wanderlust
+prime //adj.主要的; the internet is the prime source of information for us.
+surefire  //adj.一定成功的;不会错的;  A surefire way to move your design career ahead is to learn from masters in their fields.
+go out of style //过时;  stylish //adj.时髦的;  I don't care if these pants go out of style. they will always be stylish to me.
+sign up //v.报名,签名; if you want to come in on the project, you must sign up immediately.
+would you care to do sth? //你愿意做...吗?   would you care to go on a tour to Canada?
+
+
