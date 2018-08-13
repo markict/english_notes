@@ -620,5 +620,8 @@ surefire  //adj.一定成功的;不会错的;  A surefire way to move your desig
 go out of style //过时;  stylish //adj.时髦的;  I don't care if these pants go out of style. they will always be stylish to me.
 sign up //v.报名,签名; if you want to come in on the project, you must sign up immediately.
 would you care to do sth? //你愿意做...吗?   would you care to go on a tour to Canada?
-
+available //adj.有空的; Mr.Leach is on holiday and he is not available for talk now.   Are you available to talk with me in five minutes?
+on the line //在打电话; My sister is on the line for her boss. 姐姐在给她老板打电话.
+arrange //vi,vt 安排,筹划; we arranged to meet in reception at 6:30 p.m
+just did sth for a while //刚刚做过...; I just had my dinner for a while
 
