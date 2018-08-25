@@ -630,3 +630,6 @@ return one's call //回电
 reach sb. at //打给某人.  you can reach me at 18698603202 any time at your convenience.
 get it right //理解正确.  You should remember it, and what's more, you should get it right.
 Sorry, I didn't catch that. //对不起,我没听懂
+need it done by //(几点之前)需要(被)完成.  About this report, I need it done by Wednesday.
+have a brief for //简要说明.  Attention please, Mr.Woolf has a brief for this project. //Mr.Woolf对这个项目有(做)一个简要说明.
+
