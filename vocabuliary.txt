@@ -50,6 +50,7 @@ I’d rather A than B //我宁愿A也不B
 decorate装饰   well-decorated (精装修的)
 She hesitates whether to eat the apple or the cake.  //hesitate 犹豫
 reasonable  price  //合理的价格
+be reasonable //合理的,公平的; your suggestion is reasonable enough.
 I'll ask around and see if anyone needs a roommate.  //  ask around 四处打听
 We're considering moving to Seattle. 我们正考虑搬往西雅图。
 literal //照字的   literally//逐字地       literal translation//直译
@@ -632,4 +633,34 @@ get it right //理解正确.  You should remember it, and what's more, you shoul
 Sorry, I didn't catch that. //对不起,我没听懂
 need it done by //(几点之前)需要(被)完成.  About this report, I need it done by Wednesday.
 have a brief for //简要说明.  Attention please, Mr.Woolf has a brief for this project. //Mr.Woolf对这个项目有(做)一个简要说明.
+have a word with sb.  //和某人交谈.  May I have a word with you. 我可以和你谈谈吗
+give sb. direction on ... //给某人...方面的建议. He gives a piece of direction on expanding overseas markets.
+talk over //讨论,商谈;  I need to talk over with my manager before making a decision.
+someone is on track  //某人在依ƒ计划行事. We are on track with our new project. 我们的新项目在按计划进行.
+be ahead of //领先于... We ara already ahead of our sale forecast
+target //v.目标,瞄准; our products target teenagers. 我们的产品主要目标是青少年.
+revise  //修改,修订; the market research should be revised.
+I'm afraid ... // a polite way to show your disagreement.   //I'm afraid it won't work.
+graduate  //v. 毕业   When did you graduate?   I graduated in Sculpture(major) from DLPU(university)
+Bachelor Degree  //学士学位; I graduate from Dalian poly-technic university and got a bacherlor degree;
+fitting //合适的,恰当的; the award was a fitting tribute to her years of devoted work. 
+    devoted //专心的,恩爱的; 
+stimulate  //vt,vi  激发,促使,鼓励; Her interest in art was stimulated by her father. 
+aspect  //n.方面 Dealing with people is the most important aspect of my work.
+and vice versa  //反之亦然(反过来也一样);  Development for Mou does not affect MacDown, and vice versa.
+personality  //n.人格  his personality is in a good taste 他品格很高尚.  She has such a kind and friendly personality
+energetic //adj.精力充沛的 I have never saw such an energetic man.  
+hardworking //adj.努力工作的,不辞劳苦的.
+truthful //真实的, 说实话的,诚实的; she could not give him a truthful answer  / she is always truthful 
+esay-going //adj. 随和的   
+good-natured  //adj.和蔼的  He was easy-going and good-natured
+get on well with sb  //得...相处的很好
+persevere  //vi.  He persevere with his task until he had succeeded in collecting an armful of firewood
+sideline  //副业; 
+ask for leave  //请假
+I've applied for three days leave  //己经请了三天的假
+optimistic //adj. 乐观的,乐观主义的;    pessimistic //adj. 悲观的,厌世的;
+positive //积极的;  negative //消极的,负面的
+speaking of ... //说到...;      speaking of personality, I am open-minded and energetic 说到人格, 我是开明的 精力充沛的
+
 
