@@ -2,6 +2,7 @@ Vocabulary
 账号：15836493241    密码：123456
 规律  law:   I found a low that….
 come up some practical way to   //提出一些实际的方法
+impractical //adj. not easy to do or use, or not sensible;  the solustions to this problem seem very impractical
  community / neighberhood  //小区/住宅区
 trial and error  //反复实验	
 	He learned technical skills by trial and error
@@ -50,6 +51,7 @@ I’d rather A than B //我宁愿A也不B
 decorate装饰   well-decorated (精装修的)
 She hesitates whether to eat the apple or the cake.  //hesitate 犹豫
 reasonable  price  //合理的价格
+sensible //adj.reasonable, practical, and show good judgment; This is not a sensible way to deal with this situation.
 be reasonable //合理的,公平的; your suggestion is reasonable enough.
 I'll ask around and see if anyone needs a roommate.  //  ask around 四处打听
 We're considering moving to Seattle. 我们正考虑搬往西雅图。
@@ -687,4 +689,35 @@ take math courses in the evenings.  //晚上上数学课(学习)
 give math courese in the evenings.  //晚上上数学课(教课,给别人让课)
 make use of sth1 to do sth2 //利用sth1做sth2   We shoul make use of the money to help the people who suffered a lot in this terrible earthquake. 
 
+gradual //adj.逐渐的  Education is a gradual process   
+gradually  //adv.逐渐地 I have gradually deleloped a new habit of setting timetable for my work.
+profit //n.利润,收益; Thanks to our hard work, our company got 5 percent change in profit last year.
+participate  //参加,参与;  take part in;   
+mentor //n. (无经验的人的)有经验的指导者; I play the role of a mentor for many new-comers at my previous job.
+proud //adj. 自豪的; 得意的; 引以为荣的; I am very proud that ...
+military service //n. service by someone in the army,navy,or air force that can be voluntary or in voluntary.
+    served in military /  sb. is in military service  / sb is going to army for military service
+find favor with someone // to win the respect or agreement of someone
+someone is in favor of sb's point of view  //某人赞成某人观点
+step this way  //to ask someone to lift his/her feet to a certain direction.     Step this way, sir, and I'll show you to your room //这边请,先生, 我领你去你的房间
+beyond one's imagination //something is hard for you to form pictures or have any idea of it.
+confess // to admit something that you feel embarrassed about.   I confess that Eric is beyond my imagination.
+be eager to //wanting very much to do sth.   she is eager to make progress in her work
+make a toast to/for //敬酒; 
+inspect //v. to officially visit a place.  The mayor will inspect our school tomorrow.
+furthe cooperation //cooperation that you take it to more advanced stage 
+flock to //蜂拥而至; to get near or go somewhere in great numbers
+after all //毕竟,终究;
+get in contact with //与...取得联系; I would like to get in contact with my old friends.
+comment //n. something that you say or write that expresses your opinion.  Please leave a comment if there is anything you want to say.
+get something across //vi,vt. to make people understand something.  she wasn't able to get her message across to the manager.    No matter what he said or did, he couldn't find a way to get his message across.
+find a way // to discover how to achieve or deal with something.  Dana found a way to convince her parents to come to her house.
+be addicted to //沉迷于...
+competitive //adj.竞争的; how can we adapt ourselves to the highly competitive society?
+safeguard //保卫,保护; Insurance will safeguard your property
+raise //n.加薪; v.举起,抬起;  I hope to be promised a raise next year.
+comprehensive //adj.全面的,综合的;  
+flattered //感到荣幸的;受宠若惊的;  I am flattered 
+flatter //vt.奉承;讨好; He alway flatter his leader.
+incentive //n.刺激,鼓励,动力; give sb an incentive to do sth.
 
