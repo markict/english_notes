@@ -292,6 +292,7 @@ power cast //学员阵容(强)
 expend  //vt  花费 消耗 用光  he expend a lot of time and effort trying to improve computer security
 smash  //vt.打碎,粉碎,砸碎    smash a record  打破记录
 predictable //可预言的  可预知的  可预见的
+predict //v. 预言; I don't believe anyone can predict the future correctly
 unpredictable //不可预知的
 can deduce the rest from this    //以此类推
 variety  //n. 多样; 种类; 多样化    the girls come from a variety of different backgrounds
@@ -775,4 +776,26 @@ It was astute of you to notice the odd sentence pattern.
 你注意到了这个奇怪的句型，真是机敏。
 As far as I know the advantages out weight he disadvantages  
 就我所知，利大于弊
+marvelous //adj.非凡的 great or very good; We couldn't wait to see their marvelous performance again.
+get one's hopes up //燃起某人希望. to make someone think that what they want is going to happen.  she got my hopes up when she said that they had an extra ticket.
+hit the road //开始旅行. to begin a journey; We plan on hitting the road at 7 a.m. tomorrow morning
+check someone/something out // to look at sb/sth with interest; I will check the park out and see if it's good for playing football.
+intermittent //adj. 间歇的; The symptoms of a duplex mismatch may be intermittent.
+recognizable //可辨认的;易于识别的; The Eiffel Tower in Paris is a recognizable landmark.
+hold on //to wait for a short time; She told me to hold on while she grabbed a pen.
+on the contrary //正相反, used to emphasize the opposite or a contrasting point of what was just said;  On the contrary, Jane is very good at selling products.
+a matter of opinion //见仁见智的问题. an expression meaning people have different opinions about something;  Whether or not this book is helpful is just a matter of opinion.
+burst one's bubble  //打破幻想, 煞风景; I hate to burst your bubble, but the park won't be opened this Saturday.
+particular  //adj. 挑剔的,讲究的; The manager is particular about quality;
+bring out //使显示;  the dress you are wearing doesn't bring out your beauty.
+affend  //vt,vi 冒犯,引起不舒服; 
+as clear as day  //一清二楚;  your explanation are very well-written and are as clear as day
+times have changed  //时代不同; Beijing is quite different from even five years age. How the times have changed.
+change with the times //随时代变化而变化;  She is a traditional woman whose ideas never change with the times.
+less than perfect //不是十分完美; Your work is less than perfect, bu at least it's complete.
+principal //adj.重要的, 主要的;  Bad weather is the principal reason people don't go outside.
+set the scene //描述场景; Let me set the scene of the story before I tell you what happened.
+save the day  //转危为安,挽救局面. to find a solution to a difficult situation;  He saved the day by fixing everbody's computer.
+invest  //v. the factory plans to invest in new computers.
+disaster //灾难;
 
