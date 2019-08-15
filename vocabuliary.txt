@@ -988,4 +988,7 @@ content //adj. 满意的; She is content with her job at the moment
 welcome party //n. 欢迎会; Our manager hold a welcome party for you in the evening.
 lend a helping hand //v. 助一臂之力; whenever one gets in trouble, it is our duty to lend a helping hand to him of her.
 place one's trust in someone  //v. 给予信任; I'm sure I can place my trust in my neighbors. they are good people.
-
+compliant //adj. 服从的,顺从的; this AP is 802.11n compliant.
+convincing  //adj. 有说服力的;  convincing evidence.
+convinced  //adj. 确信的,信服的; I was convinced that we were doing right thing
+convince  //v.   使确信,使隽; convince sb; convince sb that;  convince sb of sth;  
